@@ -1,6 +1,5 @@
 # URL-Expander-App
 
-URL Expander is a webapp which; expands short url. 
 ![Image](./assets/1.png "App")
 
 
