@@ -9,7 +9,12 @@
 * Java 11 HTTP Client
 * Vue 
 * Elegant, Simple UI
+* Heroku
+* Vercel 
 
+## Deployment
+
+ App is deployed on Vercel. Backend is deployed on Heroku.
 
 ## Authors
 
